@@ -304,3 +304,10 @@ footer {
   opacity: 0.5;
   margin-top: 12px;
 }
+
+.circle {
+  width: 20px;
+  height: 20px;
+  background-color: #f1d4b3;
+  border-radius: 50%;
+}
